@@ -1,6 +1,6 @@
 
 def main():
-    
+    i = 1    
     
     print("hello world")
 
